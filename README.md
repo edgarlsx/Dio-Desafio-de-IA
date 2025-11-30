@@ -113,6 +113,3 @@ Crie a pasta `/images` e adicione:
 - Extração de frases-chave  
 
 ---
-
-## ✨ Autor
-Este repositório foi criado como parte do desafio da **Digital Innovation One (DIO)** sobre Serviços de IA no Azure.
